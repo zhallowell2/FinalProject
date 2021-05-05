@@ -1,0 +1,8 @@
+In order to use this program, enter finalPro() into the command window. A message box will appear with
+general instructions for user input. It indicates that inputs must take the form ax^2 + bx + c = d and 
+that "a" cannot be zero. Then, the user will get four consecutive input boxes for them to provide the 
+a b c and d coefficients. Once done, a figure window with four buttons will appear. The bottom left button
+will solve the equation for its roots and display them. The bottom right button will plot the function and
+its derivatives on the existing coordinate axis. The top right button will open a new window which will
+first display the integral in a message box and also plot the integral. Once this is escaped, the user will 
+return to the main figure window. The top left button will escape all ui windows. 
